@@ -1,22 +1,23 @@
-# Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="johannes hinterstoesser – senior product engineer" src="assets/header-light.svg" width="100%">
+</picture>
 
-I'm a Senior Software Engineer from Germany passionate about modern frontend technologies and innovative business models! 🔥
+Fullstack product engineer with 8+ years of experience in health and fintech, from backend services to pixels. Currently building patient and clinic apps at [avi](https://avimedical.com).
 
+#### currently shipping with
+- **frontend:** react · react native · electron · next.js
+- **backend:** java / quarkus · python / django · node.js · postgres · mysql
+- **infra:** gitops · kubernetes · gcp
+- **ai:** agents · skills · mcp tooling
 
-## Contact
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/johannes-hinterstoesser/) [<img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@jhinter)
+#### been there, shipped that
+angular · ruby on rails · wordpress / php · aws · azure
 
+#### side
+- [nizza-markenklasse.de](https://nizza-markenklasse.de): trademark class search
+- [zahlt-die-bu.de](https://zahlt-die-bu.de): disability insurers ranked by bafin complaint stats
 
-## Expertise
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" /> <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="Angular" src="https://img.shields.io/badge/angular-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=white" /> <img alt="Ruby on Rails" src="https://img.shields.io/badge/ruby on rails%20-%2320232a.svg?&style=for-the-badge&logo=ruby&logoColor=white" /> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<br>
 
-<img alt="Postgres" src="https://img.shields.io/badge/postgres-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2320232a?logo=mysql&logoColor=white&style=for-the-badge" />
-
-<img alt="AWS" src="https://img.shields.io/badge/aws-%2320232a?logo=amazon-aws&logoColor=white&style=for-the-badge" /> <img alt="Heroku" src="https://img.shields.io/badge/heroku-%2320232a?logo=heroku&logoColor=white&style=for-the-badge" /> <img alt="Azure" src="https://img.shields.io/badge/azure-%2320232a?logo=microsoft&logoColor=white&style=for-the-badge" />
-
-
-## Projects
-- [Research tool for registering a new trademark](https://nizza-markenklasse.de)
-- [Web app for checking local Corona rules within Germany](https://coronaregeln.app)
-- several affiliate websites
-
+<p><a href="https://www.linkedin.com/in/johannes-hinterstoesser/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img alt="linkedin" src="assets/linkedin-light.svg" height="36"></picture></a>&nbsp;<a href="https://medium.com/@jhinter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/medium-dark.svg"><img alt="medium" src="assets/medium-light.svg" height="36"></picture></a></p>
